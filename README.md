@@ -9,6 +9,8 @@ Config and scripts for my i3wm install.
   i3blocks,
   FontAwesome,
   Rofi,
-  Compton
+  Compton,
+  Termite terminal,
+  Paper GTK Theme,
 
 <img src="scrots/scrot.png">
