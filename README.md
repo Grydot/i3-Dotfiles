@@ -1,9 +1,6 @@
 # i3-Dotfiles
 Config and scripts for my i3wm install.
 
-<<<<<<< HEAD
-<img src="/scrots/screenshot.png">
-=======
 <b>Dependencies:</b>
   i3-Gaps,
   i3lock,
@@ -14,5 +11,4 @@ Config and scripts for my i3wm install.
   Rofi,
   Compton
 
-<img src="/screenshot.png">
->>>>>>> origin/master
+<img src="scrots/screenshot.png">
