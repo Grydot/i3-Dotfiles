@@ -11,4 +11,4 @@ Config and scripts for my i3wm install.
   Rofi,
   Compton
 
-<img src="scrots/screenshot.png">
+<img src="scrots/scrot.png">
