@@ -12,5 +12,9 @@ Config and scripts for my i3wm install.
   Compton,
   Termite terminal,
   Paper GTK Theme,
+  
+  
+  Run this to install all the dependencies.
+  <code>yaourt -S i3-gaps-git i3lock-git i3lock-wrapper i3blocks-git ttf-font-awesome rofi-git compton-git termite-git paper-gtk-theme-git</code>
 
 <img src="scrots/scrot.png">
