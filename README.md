@@ -15,6 +15,6 @@ Config and scripts for my i3wm install.
   
   
   Run this to install all the dependencies.
-  <code>yaourt -S i3-gaps-git i3lock-git i3lock-wrapper i3blocks-git ttf-font-awesome rofi-git compton-git termite-git paper-gtk-theme-git</code>
+  <code>yaourt -S i3-gaps-git i3lock-git i3lock-wrapper i3blocks-git ttf-font-awesome rofi-git compton-git termite-git paper-gtk-theme-git paper-icon-theme-git</code>
 
 <img src="scrots/scrot.png">
